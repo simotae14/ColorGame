@@ -53,11 +53,11 @@ inserisco una classe che evidenzi il bottone selezionato
 /****************
 CONTAINER
 *****************/
-#container {
+
+.containerMain {
 	max-width: 600px;
 	margin: 20px auto;
 }
-
 /****************
 SQUARES
 *****************/
